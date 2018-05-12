@@ -1,0 +1,58 @@
+{
+    "image_id": "3d1tGQ8SjvNaSmLRjG+jPw==",
+    "request_id": "1526159857,00788599-3ce4-4ba1-acb3-38d64f78eda2",
+    "time_used": 1503,
+    "faces": [
+        {
+            "attributes": {
+                "beauty": {
+                    "female_score": 80.767,
+                    "male_score": 80.498
+                },
+                "gender": {
+                    "value": "Male"
+                },
+                "age": {
+                    "value": 30
+                },
+                "eyestatus": {
+                    "left_eye_status": {
+                        "normal_glass_eye_open": 0.004,
+                        "no_glass_eye_close": 0.0,
+                        "occlusion": 0.003,
+                        "no_glass_eye_open": 99.993,
+                        "normal_glass_eye_close": 0.0,
+                        "dark_glasses": 0.0
+                    },
+                    "right_eye_status": {
+                        "normal_glass_eye_open": 0.013,
+                        "no_glass_eye_close": 0.0,
+                        "occlusion": 0.002,
+                        "no_glass_eye_open": 99.985,
+                        "normal_glass_eye_close": 0.0,
+                        "dark_glasses": 0.001
+                    }
+                },
+                "glass": {
+                    "value": "None"
+                },
+                "skinstatus": {
+                    "dark_circle": 3.224,
+                    "stain": 14.332,
+                    "acne": 7.574,
+                    "health": 30.48
+                },
+                "ethnicity": {
+                    "value": "WHITE"
+                }
+            },
+            "face_rectangle": {
+                "width": 111,
+                "top": 269,
+                "left": 422,
+                "height": 111
+            },
+            "face_token": "ce9b3ed355cc731abd97e8a40864a7b9"
+        }
+    ]
+}

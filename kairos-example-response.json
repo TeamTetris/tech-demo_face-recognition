@@ -1,0 +1,46 @@
+{
+    "images": [
+        {
+            "faces": [
+                {
+                    "attributes": {
+                        "age": 26,
+                        "asian": 0.00033,
+                        "black": 0.00024,
+                        "gender": {
+                            "femaleConfidence": 0.00028,
+                            "maleConfidence": 0.99972,
+                            "type": "M"
+                        },
+                        "glasses": "None",
+                        "hispanic": 0.02554,
+                        "lips": "Together",
+                        "other": 0.00057,
+                        "white": 0.97332
+                    },
+                    "chinTipX": 463,
+                    "chinTipY": 383,
+                    "confidence": 0.99945,
+                    "eyeDistance": 46,
+                    "face_id": 1,
+                    "height": 111,
+                    "leftEyeCenterX": 484,
+                    "leftEyeCenterY": 288,
+                    "pitch": -6,
+                    "quality": -0.44666,
+                    "rightEyeCenterX": 438,
+                    "rightEyeCenterY": 291,
+                    "roll": -1,
+                    "topLeftX": 405,
+                    "topLeftY": 262,
+                    "width": 111,
+                    "yaw": 42
+                }
+            ],
+            "file": "young-man-3390927_960_720.jpg",
+            "height": 640,
+            "status": "Complete",
+            "width": 960
+        }
+    ]
+}
