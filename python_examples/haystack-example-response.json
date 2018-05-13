@@ -1,0 +1,61 @@
+{
+    "result": "success",
+    "adultContent": {
+        "isAdultContent": false,
+        "isAdultContentConfidence": 0.3216,
+        "adultContentType": "",
+        "adultContentTypeConfidence": 0
+    },
+    "people": [
+        {
+            "index": 0,
+            "gender": {
+                "gender": "male",
+                "confidence": 1
+            },
+            "age": 34.6,
+            "attractiveness": 5.4116,
+            "location": {
+                "x": 196,
+                "y": 48,
+                "width": 267,
+                "height": 267
+            },
+            "ethnicity": {
+                "ethnicity": "Black_African_descent",
+                "confidence": 0.9993
+            },
+            "emotion": {
+                "emotions": {
+                    "neutral": 0.0587395765
+                },
+                "attributes": {
+                    "kissy_face": true
+                }
+            }
+        }
+    ],
+    "containsNudity": false,
+    "colors": [
+        {
+            "hex": "#A5A98C",
+            "percentage": 0.6623
+        },
+        {
+            "hex": "#483C2D",
+            "percentage": 0.1974
+        },
+        {
+            "hex": "#75614B",
+            "percentage": 0.0846
+        },
+        {
+            "hex": "#FCFEF5",
+            "percentage": 0.0384
+        },
+        {
+            "hex": "#CDD5B7",
+            "percentage": 0.0171
+        }
+    ]
+}

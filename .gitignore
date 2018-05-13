@@ -106,3 +106,4 @@ venv.bak/
 images/
 .vscode/
 secrets.py
+\.DS_Store

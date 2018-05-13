@@ -11,6 +11,7 @@ Special attention was paid to the detection of age, gender and ethnicity. Precis
 ## "Free" Online APIs
 - [FacePlusPlus](https://console.faceplusplus.com/dashboard) (9/13 ethnicity detection, [online demo](https://www.faceplusplus.com/face-detection/))
 - [Kairos](https://www.kairos.com/) (mediocre ethnicity detection)
+- [Haystack](https://www.haystack.ai/) (emotion, age, gender, ethnicity, attractiveness :O)
 
 ## Paid Online APIs
 - [Betaface API](https://www.betafaceapi.com/wpa/) (0/4 ethnicity detection)
