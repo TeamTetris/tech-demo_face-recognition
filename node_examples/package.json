@@ -1,0 +1,23 @@
+{
+  "name": "tech-demo-face-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamTetris/tech-demo_face-recognition.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeamTetris/tech-demo_face-recognition/issues"
+  },
+  "homepage": "https://github.com/TeamTetris/tech-demo_face-recognition#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
