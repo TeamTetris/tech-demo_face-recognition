@@ -3,7 +3,7 @@
 import requests
 import secrets
 
-files = open('images/7.jpg', 'rb')
+files = open('../images/7.jpg', 'rb')
 
 payload = {
     'output': 'json',
