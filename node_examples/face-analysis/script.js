@@ -1,8 +1,10 @@
 document.addEventListener('DOMContentLoaded', function () {
     var image = new Image(853,480);
+    var output = document.getElementById('output');
 
     image.onload = function() {
         requestFaceAnalysis(image, handleFaceAnalysisResponse);
+        output.textContent = 'Face analysis request send.';
     };
     // load image object
     image.src = 'images/7.png';
@@ -29,11 +31,12 @@ function requestFaceAnalysis(image, callback) {
     // Send request
     xhr.open('POST', url);
     xhr.send(formData);
-    console.log('Request send');
 }
 
 function handleFaceAnalysisResponse(response) {
-    console.log(response);
+    var output = document.getElementById('output');
+    var jsonResponse = JSON.parse(response);
+    output.innerHTML = JSON.stringify(jsonResponse, null, 4);
 }
 
 // Helper function to get base64 encoded image data
